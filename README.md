@@ -1,4 +1,4 @@
-## Learing one code at a time 🤘 
+## Learning one code at a time 🤘 
 
 <!--
 **Aarush51/Aarush51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
